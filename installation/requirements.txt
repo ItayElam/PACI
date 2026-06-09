@@ -1,0 +1,14 @@
+setuptools
+matplotlib
+numpy
+tqdm
+scikit-learn
+pillow
+colorama
+prettytable
+tensorboard
+requests
+huggingface
+transformers
+datasets
+aiohttp==3.11.11

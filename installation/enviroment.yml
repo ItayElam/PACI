@@ -1,0 +1,13 @@
+name: PACI
+channels:
+  - nvidia
+  - defaults
+
+dependencies:
+  - python==3.9.25
+  - mkl-include
+  - mkl
+  - cudnn=9.10.2
+  - cuda-toolkit=12.8
+  - pip
+
